@@ -21,9 +21,9 @@ Open http://127.0.0.1:4173/. No package installation or build is required.
 - `assets/favicon.svg` is the site icon.
 - Keep asset URLs relative so they work under `/workshop-2026-dcs/`.
 
-The supplied program lists both the brief welcome and the first talk at 08:30. Both entries are preserved. The 11:05 slot remains tentative: Michael Zavlanos or lightning talks. No talk titles have been invented.
+The supplied program lists both the brief welcome and the first talk at 08:30. Both entries are preserved. The 11:05–11:50 slot contains two student presentations; the individual time allocation has not been specified. No student names or talk titles have been invented.
 
-The event date is awaiting confirmation and is displayed as “Date to be announced”. Update this before announcing the event.
+The workshop takes place on Friday, November 27, 2026. All program times are local to Stockholm.
 
 ## Publish with GitHub Pages
 
@@ -42,6 +42,5 @@ These sources informed affiliations, contact details, the venue address and the 
 - [Navid Azizan, MIT](https://azizan.mit.edu/)
 - [Daniel Kuhn, EPFL](https://people.epfl.ch/daniel.kuhn?lang=en)
 - [Fredrik Johansson, Chalmers](https://www.chalmers.se/en/persons/frejohk/) and [research interests](https://www.fredjo.com/)
-- [Michael Zavlanos, Duke](https://robotics.duke.edu/faculty/michael-zavlanos)
 - [Digital Futures: contact and directions](https://www.digitalfutures.kth.se/contact/)
 - KTH profiles: [Zifan Wang](https://www.kth.se/profile/zifanw?l=en), [Alice Harting](https://www.kth.se/profile/aharting?l=en), [Karl H. Johansson](https://www.kth.se/profile/kallej?l=en)
