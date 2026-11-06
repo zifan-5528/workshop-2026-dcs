@@ -21,7 +21,7 @@ Open http://127.0.0.1:4173/. No package installation or build is required.
 - `assets/favicon.svg` is the site icon.
 - Keep asset URLs relative so they work under `/workshop-2026-dcs/`.
 
-The supplied program lists both the brief welcome and the first talk at 08:30. Both entries are preserved. The 11:05–11:50 slot contains two student presentations; the individual time allocation has not been specified. No student names or talk titles have been invented.
+The supplied program lists both the brief welcome and the first talk at 08:30. Both entries are preserved. The 11:05–11:50 slot contains student presentations by Alice Harting and Yulun Wu; the individual time allocation has not been specified. Every presentation has a title: Daniel Kuhn's confirmed title is “Brenier Meets Adversarial Training: Optimal Transport Geometry for Robust Learning”; the other four titles are marked TBD.
 
 The workshop takes place on Friday, November 27, 2026. All program times are local to Stockholm.
 

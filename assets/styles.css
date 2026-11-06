@@ -73,6 +73,12 @@ h2 { font-size: clamp(32px, 3.3vw, 42px); letter-spacing: -.035em; line-height: 
 .speaker-name span { display: inline-block; margin-left: 5px; color: var(--muted); font-size: 14px; }
 .speaker-name:hover, .organizer-name:hover { text-decoration: underline; }
 .affiliation, .session-note { display: block; color: var(--muted); font-size: 13px; line-height: 1.6; margin-top: 3px; }
+.talk-title { margin: 10px 0 0; color: var(--ink); font-size: 15px; line-height: 1.6; overflow-wrap: anywhere; }
+.talk-label { margin-right: 5px; color: var(--muted); font-size: 11px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; }
+.student-talks { margin-top: 14px; }
+.student-speaker { color: var(--ink); font-size: 16px; font-weight: 550; line-height: 1.5; }
+.student-talk + .student-talk { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--rule); }
+.student-talk .talk-title { margin-top: 4px; }
 .format { color: var(--body); font-size: 13px; line-height: 1.6; }
 .format > span { display: block; color: var(--muted); font-size: 11px; }
 .schedule .logistics td, .schedule .logistics th { padding-top: 15px; padding-bottom: 15px; }
@@ -175,6 +181,9 @@ address strong { color: var(--ink); font-weight: 550; }
   .speaker-name { font-size: 18px; }
   .schedule .session-name { font-size: 14px; }
   .affiliation, .session-note { font-size: 12px; }
+  .talk-title { font-size: 13px; }
+  .talk-label { font-size: 10px; }
+  .student-speaker { font-size: 15px; }
   .format { color: var(--muted); font-size: 11px; }
   .format > span { display: inline; font-size: inherit; }
   .format > span::before { content: " · "; }
