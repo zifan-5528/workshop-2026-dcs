@@ -44,6 +44,6 @@ These sources informed affiliations, contact details, the venue address and the 
 
 - [Navid Azizan, MIT](https://azizan.mit.edu/)
 - [Daniel Kuhn, EPFL](https://people.epfl.ch/daniel.kuhn?lang=en)
-- [Fredrik Johansson, Chalmers](https://www.chalmers.se/en/persons/frejohk/) and [research interests](https://www.fredjo.com/)
+- [Fredrik D. Johansson, Chalmers](https://www.chalmers.se/en/persons/frejohk/) and [research interests](https://www.fredjo.com/)
 - [Digital Futures: contact and directions](https://www.digitalfutures.kth.se/contact/)
 - KTH profiles: [Zifan Wang](https://www.kth.se/profile/zifanw?l=en), [Alice Harting](https://www.kth.se/profile/aharting?l=en), [Karl H. Johansson](https://www.kth.se/profile/kallej?l=en)
