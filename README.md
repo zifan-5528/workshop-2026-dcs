@@ -19,6 +19,7 @@ Open http://127.0.0.1:4173/. No package installation or build is required.
 - Edit `index.html` for the date, description, program, venue and organizers.
 - Edit `assets/styles.css` for colors, spacing and responsive layouts.
 - `assets/favicon.svg` is the site icon.
+- `assets/workshop-figure.svg` is the standalone workshop illustration; `assets/workshop-figure.png` is its high-resolution 2536 × 2288 PNG export.
 - Keep asset URLs relative so they work under `/workshop-2026-dcs/`.
 
 The supplied program lists both the brief welcome and the first talk at 08:30. Both entries are preserved. The 11:05–11:50 slot contains student presentations by Alice Harting and Yulun Wu; the individual time allocation has not been specified. Confirmed presentation titles are shown alongside their speakers; remaining titles are marked TBD.
