@@ -83,6 +83,15 @@ h2 { font-family: var(--sans); font-size: clamp(32px, 3vw, 39px); font-weight: 6
 .student-speaker { color: var(--ink); font-size: 18px; font-weight: 600; line-height: 1.5; }
 .student-talk + .student-talk { margin-top: 18px; padding-top: 17px; border-top: 1px solid var(--rule); }
 .student-talk .talk-title { margin-top: 6px; }
+.talk-abstract { margin-top: 12px; }
+.talk-abstract summary { width: fit-content; min-height: 44px; padding: 10px 0; cursor: pointer; list-style-position: inside; color: var(--accent); font-size: 14px; font-weight: 600; line-height: 1.7; }
+.talk-abstract summary::marker { font-size: .85em; }
+.talk-abstract summary:hover { text-decoration: underline; text-underline-offset: 4px; }
+.talk-abstract summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; border-radius: 3px; }
+.abstract-body { margin-top: 4px; padding: 16px 18px; border-left: 3px solid var(--accent); border-radius: 0 8px 8px 0; background: var(--soft); color: var(--body); font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; }
+.abstract-body p { margin: 0; }
+.abstract-body p + p { margin-top: 14px; }
+.abstract-pending { margin: 12px 0 0; color: var(--muted); font-size: 14px; line-height: 1.7; }
 .format { color: var(--body); font-size: 15px; line-height: 1.7; }
 .format > span { display: block; color: var(--muted); font-size: 13px; }
 .schedule .logistics { background: #f8fafd; }
@@ -193,6 +202,8 @@ address strong { color: var(--ink); font-weight: 600; }
   .talk-title { margin-top: 10px; font-size: 15px; }
   .talk-label { font-size: 11px; }
   .student-speaker { font-size: 17px; }
+  .abstract-body { padding: 14px; font-size: 15px; }
+  .abstract-pending { font-size: 13px; }
   .format { color: var(--muted); font-size: 13px; }
   .format > span { display: inline; font-size: inherit; }
   .format > span::before { content: " · "; }

@@ -26,6 +26,8 @@ The supplied program lists both the brief welcome and the first talk at 08:30. B
 
 The workshop takes place on Friday, November 27, 2026. All program times are local to Stockholm.
 
+Provided abstracts appear beneath their talk titles in native HTML disclosures. Click or use the keyboard on **Abstract** to expand or collapse a summary; multiple abstracts can remain open. Navid Azizan, Daniel Kuhn and Fredrik D. Johansson have full abstracts. Alice Harting and Yulun Wu currently display **Abstract coming soon.** Replace each placeholder with the same disclosure markup when their text is available.
+
 The public schedule concludes with closing remarks at 11:50. Private arrangements are omitted from the website. About describes robust learning, optimization under uncertainty and data-driven decision-making.
 
 ## Publish with GitHub Pages
